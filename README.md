@@ -51,19 +51,22 @@ Menambahkan item dengan menggunakan method `add_item()`, item yang ditambahkan a
 * Nama item: Ayam goreng, Jumlah: 2, Harga: 20000
 * Nama item: Pasta gigi, Jumlah: 1, Harga: 15000
 ![image](image/testcase1.png)
-
 ![image](image/testcase11.png)
 
 ### Test 2
 Menghapus salah satu item dengan menggunakan method `delete_item()`, item yang dihapus adalah Pasta gigi
+![image](image/testcase2.png)
 
 ### Test 3
 Menghapus semua item yang ada dirincian belanja dengan menggunakan method `reset_transaction()`
+![image](image/testcase3.png)
 
 ### Test 4
 Melakukan pengecekan transaksi menggunakan method `check_orders()`
+![image](image/testcase4.png)
 
 ### Test 5
 Mengecek total harga yang harus dibayarkan menggunakan method `total_price()`
+![image](image/testcase44.png)
 
 ## Conclusion
