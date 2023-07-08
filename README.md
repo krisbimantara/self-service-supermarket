@@ -70,3 +70,4 @@ Mengecek total harga yang harus dibayarkan menggunakan method `total_price()`
 ![image](image/testcase44.png)
 
 ## Conclusion
+Sistem self-service kasir yang sudah dibuat telah mampu memenuhin requirement yang dibutuhkan user, sehingga proses transaksi di supermarket tersebut dapat lebih mudah, efektif dan efisien. Tentunya masih diperlukan pengembangan disistem self-service kasir yang telah dibuat ini seperti membuat database yang berisi seluruh item yang dijual supermarket sehingga nantinya customer dapat tinggal memilih item yang diinginkan tanpa perlu lagi melakukan penginputan data untuk meminimalisir salah penginputan atau human error.
