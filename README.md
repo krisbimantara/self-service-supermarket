@@ -50,6 +50,9 @@ Memenuhi kebutuhan user untuk membuat self-service kasir di supermarket, sehingg
 Menambahkan item dengan menggunakan method `add_item()`, item yang ditambahkan adalah
 * Nama item: Ayam goreng, Jumlah: 2, Harga: 20000
 * Nama item: Pasta gigi, Jumlah: 1, Harga: 15000
+![image](image/testcase1.png)
+
+![image](image/testcase11.png)
 
 ### Test 2
 Menghapus salah satu item dengan menggunakan method `delete_item()`, item yang dihapus adalah Pasta gigi
